@@ -3,7 +3,7 @@
 Welcome to the Star Cineplex Movie Seat Booker, a web application built with vanilla JavaScript.
 
 ## Preview 
-<img src="https://github.com/sabberrahman/Star-Cineplex/raw/main/Web%20capture_20-1-2024_93625_127.0.0.1.jpeg" alt="Preview" width="500" height="400">
+<img src="https://github.com/sabberrahman/Star-Cineplex/blob/main/Star-Cineplex.png" alt="Preview" width="620" height="500">
 
 ## Overview
 
